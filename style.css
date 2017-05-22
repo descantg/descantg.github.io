@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+h1 {
+  padding: 10px 0cm 10px 0cm;
+  background-color: red;
+  color: rgb(204,0,0);
+}
+p1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(255,255,0);
+}
+p2 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(0,0,255);
+}
+p3 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(255,0,0);
+}
+p4 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(255,0,255);
+}
+p5 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(0,255,255);
+}
+p6 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(0,255,0);
+}
+p7 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(255,255,0);
+}
+p8 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(200,200,255);
+}
