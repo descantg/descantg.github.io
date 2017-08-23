@@ -43,10 +43,10 @@ function draw() {
   }
   if (timer % gameSpeed==0 && gameRunning == 1) {
     p1.move();
-    //p2.move();
+    p2.move();
   }
   p1.run();
-  //p2.run();
+  p2.run();
   collect.draw();
   timer += 1;
 }
@@ -56,7 +56,7 @@ Player_1 = function() {
   this.length = 1;
   this.direction = 0;
   this.trail = [5,5];
-  this.addLength = 0;
+  this.addLength = 10;
   this.dead = 0;
 }
 
